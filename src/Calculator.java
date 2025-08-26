@@ -1,4 +1,4 @@
-public class Calculator { //this is called the polyphormism that the defination of the function is same but hte parameter are different
+public class Calculator { //this is called the polymorphism that the definition of the function is same but hte parameter are different
     double ar;
     public void Area(double len,double bd){
         ar= len*bd;
